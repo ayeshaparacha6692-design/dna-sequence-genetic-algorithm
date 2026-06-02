@@ -169,7 +169,7 @@ Score: 96.4%
 
 **Ayesha** — Final Year Project, [Agriculture University]  
 📧 your-email@university.edu  
-🔗 [GitHub Profile](https://github.com/your-username)
+🔗 [GitHub Profile](https://github.com/ayeshaparacha6692-design/dna-sequence-genetic-algorithm.git)
 
 ---
 
